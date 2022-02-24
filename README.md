@@ -1,6 +1,6 @@
 # CS-330
 
-How do I approach designing software? 
+# How do I approach designing software? 
 
 What new design skills has your work on the project helped you to craft? 
 
@@ -14,7 +14,7 @@ How could tactics from your design approach be applied in future work?
 
 The design concept I used here has the potential to have a significant influence on future projects. In the past, several undertakings had minimal forethought, especially in school with limited time. This one really emphasized the need of having a comprehensive strategy in place from the start. I need to improve on it and include it into all of my future endeavors. I also need to abstract more, which is something I didn't do as much on previous projects. This project demonstrated the potential of approaches and parameters in making a scene dynamic. The callbacks were also intriguing, and it gave me a lot to think about when it came to incorporating more functionality with key and mouse inputs.
 
-How do I approach developing programs? 
+# How do I approach developing programs? 
 
 What new development strategies did you use while working on your 3D scene? 
 
@@ -29,7 +29,8 @@ How has your approach to developing code evolved throughout the milestones, whic
 Initially, I took a hardline attitude to things. Then it got a lot more abstract. After I started abstracting the various render methods, I learnt a lot about how they operate and how to control the forms. This ended up assisting me with lighting as well as other areas of the picture such as animation.
 
 
-How can computer science help me in reaching my goals? 
+# How can computer science help me in reaching my goals? 
 
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway? 
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+
 Visualizations may have completely altered my future scholastic route. Prior to this session, I had assumed that I had no interest in graphics. Then, as I progressed through these milestones, I acquired a little of a love for it. This is rather intriguing. I believe it's a fantastic topic of study, and I had no clue how complex and intricate it was.
